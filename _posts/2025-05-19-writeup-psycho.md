@@ -59,7 +59,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 ![weberro](/assets/img/DockerLabs/MachinePsycho/PAGINA_ERROR.png)
 
 Podemos fijarnos que hay un mensaje en la parte izquiera final de la web, indicando un error, como si una solicitud se estuviera tramitando mal
-ya esto nos recuerda un poco a la Vulnerabilidad de LFI, realizaremos una fuerza bruta para descubrir directorios con gobuster
+ya esto nos recuerda un poco a la Vulnerabilidad de LFI, realizaremos una fuerza bruta para descubrir directorios por detrás con gobuster
 
 ```bash
 gobuster dir -u http://172.17.0.2/ -w /usr/share/SecLists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt -x html,txt,php,xml,csv,txt,html -t 20 -b 500,502,404
