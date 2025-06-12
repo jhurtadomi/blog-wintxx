@@ -1,0 +1,12 @@
+{%- comment -%}
+  Favicon mínimo personalizado para el sitio de Wintxx
+{%- endcomment -%}
+
+{% capture favicon_path %}{{ '/assets/img' | relative_url }}{% endcapture %}
+
+<!-- Solo uso el favicon actual (.ico) -->
+<link rel="shortcut icon" href="{{ favicon_path }}/wintxx.ico">
+
+<!-- Meta para nombre del sitio -->
+<meta name="application-name" content="{{ site.title }}">
+<meta name="theme-color" content="#000000">
