@@ -10,25 +10,33 @@ En este módulo vamos a aprender a como explotar un **Buffer Overflow x32 bits (
 
 Antes de comenzar primero vamos a ver un poco de teoría sobre Buffer Overflow y entender el flujo de trabajo.
 
+<br>
 
 # ¿Qué es un Buffer Overflow?
 
+
 Un **Buffer Overflow** (desbordamiento de búfer) es una vulnerabilidad de software que ocurre cuando un programa escribe datos en un búfer (una zona de memoria temporal) más allá de los límites asignados, sobrescribiendo así áreas adyacentes de la memoria.
 
+
 ## ¿Porqué sucede?
+
 
 - Los programas reservan bloques de memoria de tamaño fijo (búferes) para almacenar datos.
 - Si no se verifica correctamente el tamaño de los datos que se copian al búfer, se puede escribir **más allá de su espacio asignado**.
 - Esto puede corromper otros datos en la pila (stack) o montón (heap), alterando el flujo normal del programa.
 
+
 ## Consecuencias
+
 
 1. **Modificar variables adyacentes**.
 2. **Alterar la dirección de retorno** de una función en la pila, redirigiendo la ejecución a código malicioso.
 3. **Ejecutar código arbitrario**, a menudo un **shellcode** (código que abre una shell, por ejemplo).
 4. **Provocar la caída del programa** (Denegación de Servicio).
 
+
 ## ¿Cómo funciona?
+
 
 Los registros importantes para los ataques de desbordamiento de búfer son `ESP`, `EBP` y `EIP`. El primero, `ESP`, nos dice en qué parte del pila somos, por tanto, el ESPregistrar siempre marca la parte superior de la pila. El segundo, `EBP`, apunta a la base dirección de la pila. Finalmente, el registro `EIP` contiene la dirección de la siguiente instrucción a leer en el programa, por lo tanto, siempre apunta al segmento de memoria “Código de programa”.
 
@@ -39,6 +47,7 @@ Cuando solemos programar algo o desarrollamos aplicaciones, se pueden usar funci
 
 
 # Explotación de StackBased
+
 
 Entonces como mencionamos anteriormente, en esta parte hacemos un poco en redundancia sobre las variables clave que actúan cuando ocurre un **desbordamiento de buffer**.
 `Estos registros son en máquinas de 32 bits (x86).`
@@ -57,6 +66,7 @@ Para realizar este análisis existe la herramienta **`GDB`**  que nos permite an
 
 
 # Ejemplo Práctico
+
 
 Tenemos un laboratorio practico, donde vamos a demostrar como se explota un BufferOverflow, pasa que cuando queremos escalar privilegios a root, y buscamos por binarios que tienen el permiso SUID nos encontramos esto:
 
@@ -215,7 +225,9 @@ int main(int argc, char *argv[])
 }
 ```
 
+
 ## Escenario (Escalda de Privilegios)
+
 
 > El escenario de configuración anterior, simula un binario que se ejecuta como root, entonces todo el proceso que hemos hecho nos sirve para escalar privilegios hacia root valga la redundancia.
 
@@ -288,6 +300,7 @@ bash-4.4#
 
 # Recomendaciones
 
+
 - Suele pasar que por cada ejecución cambia la memoria, es necesario verificar la escritura en el `EIP` y ver la pila y colocar una nueva dirección para `EIP`.
 
 
@@ -299,10 +312,3 @@ bash-4.4#
 
 
 # GRACIAS POR LEER :)
-
-
-
-
-
-
-
