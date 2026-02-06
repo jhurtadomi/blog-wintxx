@@ -10,6 +10,7 @@ En este módulo vamos a aprender a como explotar un **Buffer Overflow x32 bits (
 
 Antes de comenzar primero vamos a ver un poco de teoría sobre Buffer Overflow y entender el flujo de trabajo.
 
+
 # ¿Qué es un Buffer Overflow?
 
 Un **Buffer Overflow** (desbordamiento de búfer) es una vulnerabilidad de software que ocurre cuando un programa escribe datos en un búfer (una zona de memoria temporal) más allá de los límites asignados, sobrescribiendo así áreas adyacentes de la memoria.
@@ -53,6 +54,7 @@ Entonces se tiene:
 Entonces, empieza sobrescribiendo el **`ESP`** y así continua con los demás registros mencionados anteriormente.
 
 Para realizar este análisis existe la herramienta **`GDB`**  que nos permite analizar binarios en bajo nivel y poder ver mejor como se realiza este proceso de **Buffer Overflow.**
+
 
 # Ejemplo Práctico
 
@@ -283,15 +285,18 @@ bash-4.4#
 
 ![bof_13](/assets/img/BufferOverflow/bof_13.png)
 
+
 # Recomendaciones
 
 - Suele pasar que por cada ejecución cambia la memoria, es necesario verificar la escritura en el `EIP` y ver la pila y colocar una nueva dirección para `EIP`.
+
 
 # Referencias
 
 - [https://shell-storm.org/shellcode/files/shellcode-606.html](https://shell-storm.org/shellcode/files/shellcode-606.html)
 - [https://www.davidromerotrejo.com/2018/09/buffer-overflow-attack.html](https://www.davidromerotrejo.com/2018/09/buffer-overflow-attack.html)
 - [https://www.ired.team/~gitbook/ogimage/-MXGqWDEDWYaShWhb0tP](https://www.ired.team/~gitbook/ogimage/-MXGqWDEDWYaShWhb0tP)
+
 
 # GRACIAS POR LEER :)
 
