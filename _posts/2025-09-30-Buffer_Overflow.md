@@ -289,12 +289,9 @@ bash-4.4#
 
 # Referencias
 
-- https://shell-storm.org/shellcode/files/shellcode-606.html
-
-- https://www.davidromerotrejo.com/2018/09/buffer-overflow-attack.html
-
-- https://www.ired.team/~gitbook/ogimage/-MXGqWDEDWYaShWhb0tP
-
+- [https://shell-storm.org/shellcode/files/shellcode-606.html](https://shell-storm.org/shellcode/files/shellcode-606.html)
+- [https://www.davidromerotrejo.com/2018/09/buffer-overflow-attack.html](https://www.davidromerotrejo.com/2018/09/buffer-overflow-attack.html)
+- [https://www.ired.team/~gitbook/ogimage/-MXGqWDEDWYaShWhb0tP](https://www.ired.team/~gitbook/ogimage/-MXGqWDEDWYaShWhb0tP)
 
 # GRACIAS POR LEER :)
 
