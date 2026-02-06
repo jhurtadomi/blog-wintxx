@@ -41,7 +41,6 @@ Un **Buffer Overflow** (desbordamiento de búfer) es una vulnerabilidad de sof
 Los registros importantes para los ataques de desbordamiento de búfer son `ESP`, `EBP` y `EIP`. El primero, `ESP`, nos dice en qué parte del pila somos, por tanto, el ESPregistrar siempre marca la parte superior de la pila. El segundo, `EBP`, apunta a la base dirección de la pila. Finalmente, el registro `EIP` contiene la dirección de la siguiente instrucción a leer en el programa, por lo tanto, siempre apunta al segmento de memoria “Código de programa”.
 
 ![arq_bof](assets/img/BufferOverflow/arq_bof.png)
-Fuente: https://www.davidromerotrejo.com/2018/09/buffer-overflow-attack.html
 
 Cuando solemos programar algo o desarrollamos aplicaciones, se pueden usar funciones como: strcpy, gets, scanf y otros. Si estos no se validan en cuando a los bytes que se ha asignado en memoria, puede llegar a sobrescribir otras variables como el `EIP` alterando el flujo de ejecución.
 
