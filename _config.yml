@@ -16,7 +16,7 @@ timezone:
 
 title: Wintxx # the main title
 
-tagline: Student of Computer Engineering | Cybersecurity | Pentesting | CTF Player # it will display as the subtitle
+tagline: Cybersecurity | Pentesting | Red Team # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
