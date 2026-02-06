@@ -8,8 +8,6 @@ order: 4
 
 Soy Jean, conocido como **Wintxx o IamWin** en la comunidad. Soy estudiante de Ingeniería Informática apasionado por la ciberseguridad, el pentesting y el red team. Actualmente enfoco mis esfuerzos en la plataforma Hack The Box, donde pongo a prueba mis conocimientos resolviendo desafíos de seguridad ofensiva.
 
-![Wintxx](/assets/img/perfil/wintxx_profile.png)
-
 ## Certificaciones
 
 Cuento con las siguientes validaciones técnicas en el área:
