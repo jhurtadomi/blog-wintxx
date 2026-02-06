@@ -4,25 +4,26 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# 🚀 CTFs_Wintxx – Write-ups de Máquinas CTFs 🔥
+# Wintxx
 
-## 👨‍💻 Whoami
+Soy Jean, conocido como **Wintxx o IamWin** en la comunidad. Soy estudiante de Ingeniería Informática apasionado por la ciberseguridad, el pentesting y el red team. Actualmente enfoco mis esfuerzos en la plataforma Hack The Box, donde pongo a prueba mis conocimientos resolviendo desafíos de seguridad ofensiva.
 
-Hola, soy **Wintxx**, estudiante de Ingeniería Informática y Sistemas, apasionado por la **ciberseguridad**, el **pentesting** y el desarrollo de **CTFs**.  
-Me dedico a mejorar mis habilidades en **seguridad ofensiva** resolviendo desafíos en diversas plataformas y documentando mi proceso de aprendizaje.
+![Wintxx](/assets/img/perfil/wintxx_profile.png)
+
+## Certificaciones
+
+Cuento con las siguientes validaciones técnicas en el área:
+
+* **INE:** eJPT
+* **The Sec Ops Group:** CRTeamer
+* **CyberWarfareLabs:** CRTA, MCRTA, CRT-ID, ADRTS
+* **SkillsFront:** ISO 27001:2022 Associate
+
+En este blog estaré subiendo mis writeups de máquinas, experiencias en exámenes de certificación, investigaciones, artículos sobre herramientas y más. Mi objetivo es documentar mi aprendizaje y compartir contenido técnico útil para otros apasionados del área.
+
+Te agradezco por pasarte por aquí.
 
 ---
 
-## 🛠 ¿Qué encontrarás en este repositorio?
-
-- 📌 Write-ups de máquinas **CTFs** y **vulnerables** en plataformas como **DockerLabs**, **HackTheBox** y otras.
-- 📌 Técnicas y estrategias de **explotación** utilizadas en cada desafío.
-
----
-
-## 🌍 Plataformas en las que participo
-
-- ✔️ DockerLabs  
-- ✔️ VulnHub  
-- ✔️ Hack The Box 
-- ✔️ TryHackMe 
+No dejes que nadie se acerque a ti, sin que al irse, se sienta un poquito mejor y más feliz.  
+**Madre Teresa de Calcuta**
