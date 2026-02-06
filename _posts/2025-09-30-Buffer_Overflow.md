@@ -10,7 +10,6 @@ En este módulo vamos a aprender a como explotar un **Buffer Overflow x32 bits (
 
 Antes de comenzar primero vamos a ver un poco de teoría sobre Buffer Overflow y entender el flujo de trabajo.
 
-<br>
 
 # ¿Qué es un Buffer Overflow?
 
