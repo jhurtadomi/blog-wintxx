@@ -10,17 +10,17 @@ En este módulo vamos a aprender a como explotar un **Buffer Overflow x32 bits (
 
 Antes de comenzar primero vamos a ver un poco de teoría sobre Buffer Overflow y entender el flujo de trabajo.
 
-# ¿Qué es un Buffer Overflow?
+## ¿Qué es un Buffer Overflow?
 
 Un **Buffer Overflow** (desbordamiento de búfer) es una vulnerabilidad de software que ocurre cuando un programa escribe datos en un búfer (una zona de memoria temporal) más allá de los límites asignados, sobrescribiendo así áreas adyacentes de la memoria.
 
-## ¿Porqué sucede?
+### ¿Porqué sucede?
 
 - Los programas reservan bloques de memoria de tamaño fijo (búferes) para almacenar datos.
 - Si no se verifica correctamente el tamaño de los datos que se copian al búfer, se puede escribir **más allá de su espacio asignado**.
 - Esto puede corromper otros datos en la pila (stack) o montón (heap), alterando el flujo normal del programa.
 
-## Consecuencias
+### Consecuencias
 
 1. **Modificar variables adyacentes**.
 2. **Alterar la dirección de retorno** de una función en la pila, redirigiendo la ejecución a código malicioso.
@@ -35,7 +35,7 @@ Los registros importantes para los ataques de desbordamiento de búfer son `ESP`
 
 Cuando solemos programar algo o desarrollamos aplicaciones, se pueden usar funciones como: strcpy, gets, scanf y otros. Si estos no se validan en cuando a los bytes que se ha asignado en memoria, puede llegar a sobrescribir otras variables como el `EIP` alterando el flujo de ejecución.
 
-# Explotación de StackBased
+## Explotación de StackBased
 
 Entonces como mencionamos anteriormente, en esta parte hacemos un poco en redundancia sobre las variables clave que actúan cuando ocurre un **desbordamiento de buffer**.
 `Estos registros son en máquinas de 32 bits (x86).`
@@ -52,7 +52,7 @@ Entonces, empieza sobrescribiendo el **`ESP`** y así continua con los demás re
 
 Para realizar este análisis existe la herramienta **`GDB`**  que nos permite analizar binarios en bajo nivel y poder ver mejor como se realiza este proceso de **Buffer Overflow.**
 
-# Ejemplo Práctico
+## Ejemplo Práctico
 
 Tenemos un laboratorio practico, donde vamos a demostrar como se explota un BufferOverflow, pasa que cuando queremos escalar privilegios a root, y buscamos por binarios que tienen el permiso SUID nos encontramos esto:
 
@@ -281,14 +281,14 @@ bash-4.4#
 
 ![bof_13](/assets/img/BufferOverflow/bof_13.png)
 
-# Recomendaciones
+## Recomendaciones
 
 - Suele pasar que por cada ejecución cambia la memoria, es necesario verificar la escritura en el `EIP` y ver la pila y colocar una nueva dirección para `EIP`.
 
-# Referencias
+## Referencias
 
 - [https://shell-storm.org/shellcode/files/shellcode-606.html](https://shell-storm.org/shellcode/files/shellcode-606.html)
 - [https://www.davidromerotrejo.com/2018/09/buffer-overflow-attack.html](https://www.davidromerotrejo.com/2018/09/buffer-overflow-attack.html)
 - [https://www.ired.team/~gitbook/ogimage/-MXGqWDEDWYaShWhb0tP](https://www.ired.team/~gitbook/ogimage/-MXGqWDEDWYaShWhb0tP)
 
-# GRACIAS POR LEER :)
+## GRACIAS POR LEER :)
