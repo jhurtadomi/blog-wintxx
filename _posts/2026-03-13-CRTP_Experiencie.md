@@ -6,7 +6,7 @@ tags: [CRTP, Active Directory, Red Team, Pentesting]
 image: /assets/img/CRTP/portada_crtp.png
 ---
 
-## **Anéctoda**
+## **ANÉCDOTA**
 
 Hace poco más de un año, estaba en el séptimo ciclo de Ingeniería de Sistemas sintiéndome en un callejón sin salida. Con el título cada vez más cerca, ni siquiera tenía un currículum definido; si bien es cierto que había realizado muchos proyectos de software y gestión, honestamente, no me llenaban. Había tenido un primer roce con la Seguridad Informática y Linux en un curso de la facultad y me había enganchado, pero en ese momento lo veía más como un sueño lejano que como una carrera real.
 
@@ -22,15 +22,15 @@ Desde ese momento, algo hizo clic. En cada proyecto he tenido la libertad de met
 
 Mirando hacia atrás, nada de esto hubiera sido igual sin las personas adecuadas en el momento justo. Por eso, quiero agradecer profundamente a Saskia, Howard y al Dr. William, Director de la Escuela de Ingeniería, quienes hoy son los responsables de que me dedique a lo que realmente me apasiona.
 
+También a los amigos que hice en redes como LinkedIn y que aportaron mucho al conocimiento que tengo ahora. Gracias Francisco Flores y Manuel Veas.
 
 > *Ahora sí, comencemos a hablar de la Certificación!*
 
 ## **INTRODUCCIÓN**
 
-Certified Red Team Professional (CRTP) una certificación de nivel BeginNer-Intermediate impartida por Altered Security brindando tanto un curso con mas +12Hrs de contenido + Laboratorio que hablaremos con mas detalle mas adelante, esta certificación se centra exclusivamente en la explotación de entornos de Active Directory proporcionando una metodología muy clara que va desde el Reconocimiento hasta la Peristencia y Exfiltración de Datos.
+La Certified Red Team Professional (CRTP) es una certificación de nivel Beginner-Intermediate impartida por Altered Security. Incluye un curso con más de 12 horas de contenido en video más un laboratorio del que hablaremos en detalle más adelante. La certificación se centra exclusivamente en la explotación de entornos de Active Directory, siguiendo una metodología muy clara que va desde el Reconocimiento hasta la Persistencia y Exfiltración de Datos.
 
-Lo que hace mas interesante a la certificación es que tú vas a comprometer el Entorno AD desde Windows, CMD Y POWERSHELL serán tus mejores amigos en esta certificación, muchos quizás, incluyendome, hemos estado interactuando con los Entornos de AD desde Linux, este caso es diferente, Altered Security en el material te proporciona las Tools que te serviran para el exámen, binarios de Windows, Powershell y el Módulo de AD que trae Windows.
-
+Lo que la hace especialmente interesante es que todo el compromiso del entorno AD lo harás desde Windows. CMD y PowerShell serán tus mejores amigos aquí, y sí, para muchos, incluyéndome, eso fue un cambio importante, ya que estábamos acostumbrados a interactuar con AD desde Linux. El material del curso te proporciona todo lo necesario: binarios de Windows, scripts de PowerShell y el módulo de AD nativo que trae el propio sistema operativo.
 Por acá dejo una imagen de la metodología que enseña el curso.
 
 ![metologia](/assets/img/CRTP/metodologia.png)
@@ -78,7 +78,7 @@ Al ser un laboratorio guiado, nunca te quedas completamente a oscuras. Si tenía
 
 ![lab](/assets/img/CRTP/lab.png)
 
-## **EL EXÁMEN**
+## **EL EXAMEN**
 
 Una vez completado el curso y el laboratorio, decidí la fecha: sábado 28 de febrero del 2026.
 
