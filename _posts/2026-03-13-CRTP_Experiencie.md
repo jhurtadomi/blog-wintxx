@@ -145,7 +145,7 @@ Antes de cerrar, quiero dejarte algunos tips basados en mi propia experiencia. E
 **- Investiga por tu cuenta más allá del curso.** En el examen me encontré con cosas que no se enseñan explícitamente en el material, pero las bases que te da el curso son suficientes para razonarlas y resolverlas. No dependas solo de lo que viene en las diapositivas.
 
 
-## **Recursos de Apoyo**
+## **RECURSOS DE APOYO**
 
 - [harmj0y Blog](https://blog.harmj0y.net/blog/)
 - [Active Directory Pro](https://activedirectorypro.com/blog/)
