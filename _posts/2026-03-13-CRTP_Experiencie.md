@@ -22,7 +22,7 @@ Desde ese momento, algo hizo clic. En cada proyecto he tenido la libertad de met
 
 Mirando hacia atrás, nada de esto hubiera sido igual sin las personas adecuadas en el momento justo. Por eso, quiero agradecer profundamente a Saskia, Howard y al Dr. William, Director de la Escuela de Ingeniería, quienes hoy son los responsables de que me dedique a lo que realmente me apasiona.
 
-También a los amigos que hice en redes como LinkedIn y que aportaron mucho al conocimiento que tengo ahora. Gracias Francisco Flores y Manuel Veas.
+También a los amigos que hice en redes como LinkedIn y que aportaron mucho al conocimiento que tengo ahora. Gracias Francisco Flores, Manuel Veas y mi bro Jacob.
 
 > *Ahora sí, comencemos a hablar de la Certificación!*
 
