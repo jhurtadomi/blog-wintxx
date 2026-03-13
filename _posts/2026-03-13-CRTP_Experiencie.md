@@ -88,6 +88,7 @@ Comencé aproximadamente a las 9:10 AM con dos Monsters encima y terminé cerca 
 
 Sin spoilers, el examen consta de 5 máquinas, sin contar la que te brindan para operar. Todas tienen configuraciones incorrectas y cada una toca algo diferente, así que la enumeración es clave. No hay tareas que requieran fuerza bruta, ataques como Kerberoasting y AS-REP Roasting quedan fuera del alcance del examen.
 
+
 ### **El Reporte**
 
 Comprometer el entorno no es suficiente para aprobar. También debes redactar un informe profesional tipo WriteUp describiendo paso a paso cómo llegaste a cada máquina. Para esto tienes 48 horas adicionales a las 24 del examen, tiempo de sobra si fuiste tomando notas durante el proceso.
@@ -143,17 +144,13 @@ Antes de cerrar, quiero dejarte algunos tips basados en mi propia experiencia. E
 **- Investiga por tu cuenta más allá del curso.** En el examen me encontré con cosas que no se enseñan explícitamente en el material, pero las bases que te da el curso son suficientes para razonarlas y resolverlas. No dependas solo de lo que viene en las diapositivas.
 
 
-## **RECURSOS DE APOYO**
+## **Recursos de Apoyo**
 
-- https://blog.harmj0y.net/blog/
-
-- https://activedirectorypro.com/blog/
-
-- https://adsecurity.org/
-
-- https://specterops.io/blog/tag/active-directory/
-
-- https://www.ired.team/
+- [harmj0y Blog](https://blog.harmj0y.net/blog/)
+- [Active Directory Pro](https://activedirectorypro.com/blog/)
+- [AD Security](https://adsecurity.org/)
+- [SpecterOps Blog](https://specterops.io/blog/tag/active-directory/)
+- [Red Team Notes](https://www.ired.team/)
 
 ---
 
