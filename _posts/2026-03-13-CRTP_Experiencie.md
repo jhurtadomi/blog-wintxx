@@ -46,7 +46,8 @@ El material está diseñado para llevarte de la mano, pero sin subestimarte. Al 
 
 - **Más de 12 horas de contenido en video:** Dictados por Nikhil Mittal. Sin relleno; cada parte está enfocada en técnicas que vas a aplicar en el laboratorio y en el examen.
 - **Diapositivas del instructor:** Un recurso que no esperaba y que terminó siendo mi material principal de estudio.
-- Manuales de Laboratorio (PDF): Con dos enfoques para cada ataque:
+
+- **Manuales de Laboratorio (PDF):** Con dos enfoques para cada ataque:
 
     1. **Sin C2:** Manual, usando herramientas locales, binarios y scripts. Fundamental para entender cómo funcionan los protocolos por dentro.
     2. **Con C2 (Sliver):** Un framework moderno y potente que eleva la experiencia a un nivel de Red Team real.
