@@ -12,6 +12,7 @@ Soy Jean, conocido como **Wintxx o IamWin** en la comunidad. Soy estudiante de I
 
 Cuento con las siguientes validaciones técnicas en el área:
 
+* **Altered Security:** CRTP
 * **INE:** eJPT
 * **The Sec Ops Group:** CRTeamer
 * **CyberWarfareLabs:** CRTA, MCRTA, CRT-ID, ADRTS
@@ -23,5 +24,5 @@ Te agradezco por pasarte por aquí.
 
 ---
 
-No dejes que nadie se acerque a ti, sin que al irse, se sienta un poquito mejor y más feliz.  
-**Madre Teresa de Calcuta**
+> No dejes que nadie se acerque a ti, sin que al irse, se sienta un poquito mejor y más feliz.  
+> **Madre Teresa de Calcuta**
