@@ -20,7 +20,7 @@ No esperaba lo que me respondió. No fue solo un consejo: fue una invitación di
 
 Desde ese momento, algo hizo clic. En cada proyecto he tenido la libertad de meterme de lleno en lo que realmente me interesa: Ciberseguridad, Red Team y Pentesting. Pasé de no saber qué hacer con mi carrera a aprender en la trinchera, al lado de personas que llevan años en esto. Fue exactamente ese impulso el que me empujó a dar los siguientes pasos, recorriendo un camino de certificaciones como la CRTA, eJPT y CRTeamer, hasta llegar a la CRTP, que considero el mayor logro que he tenido hasta ahora.
 
-Mirando hacia atrás, nada de esto hubiera sido igual sin las personas adecuadas en el momento justo. Por eso, quiero agradecer profundamente a Saskia, Howard y al Dr. William, Director de la Escuela de Ingeniería, quienes hoy son los responsables de que me dedique a lo que realmente me apasiona.
+Mirando hacia atrás, nada de esto hubiera sido igual sin las personas adecuadas en el momento justo. Por eso, quiero agradecer profundamente a Saskia, Howard y al Dr. William, Director de la Escuela de Ingeniería y a mi compañero de Universidad Jorge quienes hoy son los responsables de que me dedique a lo que realmente me apasiona.
 
 También a los amigos que hice en redes como LinkedIn y que aportaron mucho al conocimiento que tengo ahora. Gracias Francisco Flores, Manuel Veas y mi bro Jacob.
 
