@@ -8,7 +8,7 @@ image: /assets/img/CRTP/portada_crtp.png
 
 ## **ANÉCDOTA**
 
-Hace poco más de un año, estaba en el séptimo ciclo de Ingeniería de Sistemas sintiéndome en un callejón sin salida. Con el título cada vez más cerca, ni siquiera tenía un currículum definido; si bien es cierto que había realizado muchos proyectos de software y gestión, honestamente, no me llenaban. Había tenido un primer roce con la Seguridad Informática y Linux en un curso de la facultad y me había enganchado, pero en ese momento lo veía más como un sueño lejano que como una carrera real.
+Hace como un año, estaba en el séptimo ciclo de Ingeniería de Sistemas sintiéndome en un callejón sin salida. Con el título cada vez más cerca, ni siquiera tenía un currículum definido; si bien es cierto que había realizado muchos proyectos de software y gestión, honestamente, no me llenaban. Había tenido un primer roce con la Seguridad Informática y Linux en un curso de la facultad y me había enganchado, pero en ese momento lo veía más como un sueño lejano que como una carrera real.
 
 Todo cambió una noche, en una conversación por Instagram con una amiga. Ella intentaba venderme unos productos (jajaja), pero terminamos hablando del futuro. Me preguntó a qué pensaba dedicarme y solté lo que llevaba tiempo guardándome: "No estoy seguro, pero el Ethical Hacking me llama mucho la atención y no sé qué hacer". En ese momento, yo estaba a punto de dar los primeros pasos para mi tesis e investigaciones enfocadas en Software; sentía que iba en contra de lo que realmente quería. No es que no me guste desarrollar es muy chévere, pero todos tenemos algo que nos engancha más.
 
