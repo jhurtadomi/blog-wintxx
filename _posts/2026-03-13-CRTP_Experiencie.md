@@ -79,6 +79,8 @@ Al ser un laboratorio guiado, nunca te quedas completamente a oscuras. Si tenía
 
 ![lab](/assets/img/CRTP/lab.png)
 
+![apuntes_lab](/assets/img/CRTP/apuntes_lab.png)
+
 ## **EL EXAMEN**
 
 Una vez completado el curso y el laboratorio, decidí la fecha: sábado 28 de febrero del 2026.
