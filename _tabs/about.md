@@ -14,7 +14,7 @@ Cuento con las siguientes validaciones técnicas en el área:
 
 * **Altered Security:** CRTP
 * **INE:** eJPT
-* **The Sec Ops Group:** CRTeamer
+* **The Sec Ops Group:** CRTeamer, C-APIPen
 * **CyberWarfareLabs:** CRTA, MCRTA, CRT-ID, ADRTS
 * **SkillsFront:** ISO 27001:2022 Associate
 
