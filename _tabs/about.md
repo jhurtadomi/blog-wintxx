@@ -12,11 +12,9 @@ I'm Jean, known as **Wintxx** or **IamWin** in the community. I'm a Computer Eng
 
 When I'm not studying, I really enjoy motorcycles, F1, UFC, and cars.
 
-<p align="center">
-  <a href="https://app.hackthebox.com/users/1942692">
-    <img src="https://www.hackthebox.com/badge/image/1942692" alt="Hack The Box">
-  </a>
-</p>
+<div align="center">
+  <img src="https://www.hackthebox.com/badge/image/1942692" alt="Hack The Box">
+</div>
 
 ## Certifications
 
