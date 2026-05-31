@@ -4,25 +4,37 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Wintxx
+# Whoami
 
-Soy Jean, conocido como **Wintxx o IamWin** en la comunidad. Soy estudiante de Ingeniería Informática apasionado por la ciberseguridad, el pentesting y el red team. Actualmente enfoco mis esfuerzos en la plataforma Hack The Box, donde pongo a prueba mis conocimientos resolviendo desafíos de seguridad ofensiva.
+I'm Jean, known as **Wintxx** or **IamWin** in the community. I'm a Computer Engineering student passionate about cybersecurity, pentesting, and red teaming.
 
-## Certificaciones
+## Off the keyboard
 
-Cuento con las siguientes validaciones técnicas en el área:
+When I'm not studying, I really enjoy motorcycles, F1, UFC, and cars.
+
+<p align="center">
+  <a href="https://app.hackthebox.com/users/1942692">
+    <img src="https://www.hackthebox.com/badge/image/1942692" alt="Hack The Box">
+  </a>
+</p>
+
+## Certifications
+
+I hold the following technical certifications:
 
 * **Altered Security:** CRTP
 * **INE:** eJPT
-* **The Sec Ops Group:** CRTeamer, C-APIPen
+* **The Sec Ops Group:** C-ADPenX, CRTeamer, C-APIPen
 * **CyberWarfareLabs:** CRTA, MCRTA, CRT-ID, ADRTS
 * **SkillsFront:** ISO 27001:2022 Associate
 
-En este blog estaré subiendo mis writeups de máquinas, experiencias en exámenes de certificación, investigaciones, artículos sobre herramientas y más. Mi objetivo es documentar mi aprendizaje y compartir contenido técnico útil para otros apasionados del área.
+## What will you find here?
 
-Te agradezco por pasarte por aquí.
+On this blog, I'll be posting my machine writeups, certification exam experiences, research, tool articles, and more. My goal is to document my learning journey and share useful technical content with others who are passionate about this field.
+
+Thanks for stopping by. If anything I share helps you, it was worth it.
 
 ---
 
-> No dejes que nadie se acerque a ti, sin que al irse, se sienta un poquito mejor y más feliz.  
-> **Madre Teresa de Calcuta**
+> *"Let no one ever come to you without leaving better and happier."*
+> — Mother Teresa
