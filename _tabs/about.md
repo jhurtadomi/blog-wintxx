@@ -6,11 +6,14 @@ order: 4
 
 # Whoami
 
-I'm Jean, known as **Wintxx** or **IamWin** in the community. I'm a Computer Engineering student passionate about cybersecurity, pentesting, and red teaming.
+I'm Jean, known as **Wintxx** or **IamWin** in the community. I'm a Systems Engineering student passionate about cybersecurity, pentesting, and red teaming.
 
 ## Off the keyboard
 
-When I'm not studying, I really enjoy motorcycles, F1, UFC, and cars.
+When I'm not studying, you'll probably find me:
+
+*   Following **F1**, **UFC**, and everything related to **cars and motorcycles**.
+*   Blasting rock music—huge fan of **Metallica**, **RHCP**, **SOAD**, **Nirvana**, and **Guns N' Roses**.
 
 <div align="center">
   <a href="https://app.hackthebox.com/users/1942692" target="_blank">
