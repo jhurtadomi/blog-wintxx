@@ -6,7 +6,7 @@ order: 4
 
 # Whoami
 
-I'm Jean, known as **Wintxx** or **IamWin** in the community. I'm a Systems Engineering student passionate about cybersecurity, pentesting, and red teaming.
+I'm Jean, known as **Wintxx** or **IamWin** in the community. I'm a Systems Engineering student passionate about cybersecurity, pentesting, and red teaming. My ultimate goal in this field is to become OSCE3 certified, and with God's help, I will achieve it.
 
 ## Off the keyboard
 
