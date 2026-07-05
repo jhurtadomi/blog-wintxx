@@ -6,9 +6,9 @@ tags: [BloodHound, MCP, Claude, AI, Active Directory, Red Team]
 image: /assets/img/BloodHoundMCP/portada_mcp.png
 ---
 
-## Introduccion
+## Introducción
 
-Hace unos como 2 semanas que me enteré que BloodHound había publicado una actualización donde nos permitían integrar BloodHound con un "MCP", aquí adelante comparto los Posts que leí:
+Hace unas 2 semanas me enteré de la existencia de un servidor MCP (Model Context Protocol) para BloodHound, el cual nos permite integrarlo con Claude. A continuación, comparto las publicaciones que leí al respecto:
 
 > **Artículo de SpecterOps:**
 > [BloodHound MCP: One Year Later — What I Learned About MCPs, Models, and Context](https://specterops.io/blog/2026/06/18/bloodhound-mcp-one-year-later-what-i-learned-about-mcps-models-and-context/#h-introduction-the-first-version-worked-but-needed-improvement)
@@ -29,7 +29,7 @@ El MCP de BloodHound permite consultar tus datos de Active Directory en lenguaje
 - Datos ya importados en BH CE (output de RustHound o bloodhound-python)
 - Git o acceso a GitHub para descargar el repo
 
-> Cabe mencionar que tambien eh visto a colegas utilizarlo en otros LLMs, así que estaré investigando un poco más y les compartiré si encuentro algo interesante.
+> Cabe mencionar que también he visto a colegas utilizarlo con otros LLMs, así que estaré investigando un poco más y les compartiré si encuentro algo interesante.
 
 ## Implementación
 
@@ -57,7 +57,7 @@ Guarda los valores KEY & ID.
 
 ## Paso 3: Crear el archivo .env
 
-Dentro de la carpeta del repositorio que clonamos, neecsitamos crear un **.env**
+Dentro de la carpeta del repositorio que clonamos, necesitamos crear un **.env**
 
 ```powershell
 @"
@@ -86,7 +86,7 @@ En Linux
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-Con `uv` instalado ahora necesitamos hacer la integración entre el MCP de BloodHound con Claude Desktop
+Con `uv` instalado, ahora necesitamos realizar la integración del MCP de BloodHound con Claude Desktop:
 
 ## Paso 5: Configurar Claude Desktop
 
@@ -134,7 +134,7 @@ Ahora es momento de probar su funcionamiento, lo primero que debemos hacer es su
 
 ![upload_test](/assets/img/BloodHoundMCP/upload_test.png)
 
-Ahora, desde Claude Deskop:
+Ahora, desde Claude Desktop:
 
 ![test1](/assets/img/BloodHoundMCP/test1.png)
 ![test2](/assets/img/BloodHoundMCP/test2.png)
